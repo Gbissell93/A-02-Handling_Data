@@ -1,7 +1,15 @@
 Explain what the ".map" properties of arrays does.
+generates a new array by looping through an existing on and executing a callback function
+on each element.
 
 Explain what the ".reduce" properties of arrays does.
+reduce generates a new array by executing a callback function that 
+sets conditions for which elements make it to the new array.
 
 How is ".map" different from reduce?
+map will reproduce everyelement in the array where reduce is used to create a new array
+by allowing developers to select the conditions for the ne elemnets in the array.
 
 What are "switch" statements?
+Switch statements are multicondition statements that produce different outputs
+based on the information in a variable. 
